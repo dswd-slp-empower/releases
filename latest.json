@@ -10,22 +10,22 @@
   "assets": [
     {
       "name": "empower-arm64-v8a-v1.0.39.apk",
-      "downloadUrl": "https://github.com/awenmirasol234/SLP-releases/releases/download/v1.0.39/empower-arm64-v8a-v1.0.39.apk",
+      "downloadUrl": "https://github.com/dswd-slp-empower/releases/releases/download/v1.0.39/empower-arm64-v8a-v1.0.39.apk",
       "sizeBytes": 0
     },
     {
       "name": "empower-armeabi-v7a-v1.0.39.apk",
-      "downloadUrl": "https://github.com/awenmirasol234/SLP-releases/releases/download/v1.0.39/empower-armeabi-v7a-v1.0.39.apk",
+      "downloadUrl": "https://github.com/dswd-slp-empower/releases/releases/download/v1.0.39/empower-armeabi-v7a-v1.0.39.apk",
       "sizeBytes": 0
     },
     {
       "name": "empower-x86_64-v1.0.39.apk",
-      "downloadUrl": "https://github.com/awenmirasol234/SLP-releases/releases/download/v1.0.39/empower-x86_64-v1.0.39.apk",
+      "downloadUrl": "https://github.com/dswd-slp-empower/releases/releases/download/v1.0.39/empower-x86_64-v1.0.39.apk",
       "sizeBytes": 0
     },
     {
       "name": "empower-universal-v1.0.39.apk",
-      "downloadUrl": "https://github.com/awenmirasol234/SLP-releases/releases/download/v1.0.39/empower-universal-v1.0.39.apk",
+      "downloadUrl": "https://github.com/dswd-slp-empower/releases/releases/download/v1.0.39/empower-universal-v1.0.39.apk",
       "sizeBytes": 0
     }
   ]
