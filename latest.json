@@ -1,6 +1,6 @@
 {
-  "version": "1.0.40",
-  "tag": "v1.0.40",
+  "version": "1.0.42",
+  "tag": "v1.0.42",
   "notes": [
     "Resend API key updated to new default (automatic, no user configuration)",
     "Lifetime license support — trial_days 0 now means Habang-buhi (never expires)",
@@ -10,24 +10,24 @@
   ],
   "assets": [
     {
-      "name": "empower-arm64-v8a-v1.0.40.apk",
-      "downloadUrl": "https://github.com/dswd-slp-empower/releases/releases/download/v1.0.40/empower-arm64-v8a-v1.0.40.apk",
-      "sizeBytes": 39048938
+      "name": "empower-arm64-v8a-v1.0.42.apk",
+      "downloadUrl": "https://github.com/dswd-slp-empower/releases/releases/download/v1.0.42/empower-arm64-v8a-v1.0.42.apk",
+      "sizeBytes": 39048998
     },
     {
-      "name": "empower-armeabi-v7a-v1.0.40.apk",
-      "downloadUrl": "https://github.com/dswd-slp-empower/releases/releases/download/v1.0.40/empower-armeabi-v7a-v1.0.40.apk",
-      "sizeBytes": 35705180
+      "name": "empower-armeabi-v7a-v1.0.42.apk",
+      "downloadUrl": "https://github.com/dswd-slp-empower/releases/releases/download/v1.0.42/empower-armeabi-v7a-v1.0.42.apk",
+      "sizeBytes": 35688856
     },
     {
-      "name": "empower-x86_64-v1.0.40.apk",
-      "downloadUrl": "https://github.com/dswd-slp-empower/releases/releases/download/v1.0.40/empower-x86_64-v1.0.40.apk",
-      "sizeBytes": 41653989
+      "name": "empower-x86_64-v1.0.42.apk",
+      "downloadUrl": "https://github.com/dswd-slp-empower/releases/releases/download/v1.0.42/empower-x86_64-v1.0.42.apk",
+      "sizeBytes": 41654049
     },
     {
-      "name": "empower-universal-v1.0.40.apk",
-      "downloadUrl": "https://github.com/dswd-slp-empower/releases/releases/download/v1.0.40/empower-universal-v1.0.40.apk",
-      "sizeBytes": 98933579
+      "name": "empower-universal-v1.0.42.apk",
+      "downloadUrl": "https://github.com/dswd-slp-empower/releases/releases/download/v1.0.42/empower-universal-v1.0.42.apk",
+      "sizeBytes": 98917255
     }
   ]
 }
